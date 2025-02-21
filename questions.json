@@ -1,0 +1,2293 @@
+[
+    {
+        "question_number": 1,
+        "question": "If a plaintiff is successful in a tort claim, the plaintiff will recover:",
+        "options": {
+            "a": "Damages for unforeseeable losses",
+            "b": "Damages for physical loss but never damages for economic loss",
+            "c": "Damages that are remote",
+            "d": "Damages for physical loss and possibly damages for economic loss"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 2,
+        "question": "If a plaintiff is successful in a negligence claim, the plaintiff:",
+        "options": {
+            "a": "Will recover punitive damages",
+            "b": "Will recover compensation for any physical damages",
+            "c": "May recover compensation for economic loss, it just depends",
+            "d": "(b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 3,
+        "question": "If a plaintiff is successful in a negligence claim the defendant:",
+        "options": {
+            "a": "Must compensate for any physical damages and economic loss, it just depends",
+            "b": "Must pay punitive damages",
+            "c": "(a) and (b)",
+            "d": "None of the above",
+            "e": "Will always go to jail"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 4,
+        "question": "If a plaintiff is successful in a tort claim, the damages are intended to:",
+        "options": {
+            "a": "Put the plaintiff in the position in which he or she would have been had the tort not occurred",
+            "b": "Put the plaintiff and the defendant in the position in which they would have been had the tort not occurred",
+            "c": "Compensate the defendant",
+            "d": "Punish the defendant"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 5,
+        "question": "If a plaintiff is awarded damages for tort, the damages are intended as to:",
+        "options": {
+            "a": "Be paid to the judge",
+            "b": "Be a tax payable to the city",
+            "c": "Compensate the plaintiff",
+            "d": "(a) and (c)",
+            "e": "Punish the defendant"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 6,
+        "question": "Slander:",
+        "options": {
+            "a": "Is a form of tort",
+            "b": "Includes fraud",
+            "c": "Both of the above",
+            "d": "Is the same as defamation"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 7,
+        "question": "If Defendant A and Defendant B are concurrent tortfeasors:",
+        "options": {
+            "a": "Defendant A and Defendant B are equally liable",
+            "b": "Defendant A and Defendant B are vicariously liable",
+            "c": "(a) and (b)",
+            "d": "Defendant A and Defendant B both committed a tort"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 8,
+        "question": "The consequences of infringing a patent are:",
+        "options": {
+            "a": "Court may order an injunction to stop the infringement",
+            "b": "Damages may be ordered",
+            "c": "The infringement is an offence under the criminal code",
+            "d": "(a) and (b) above",
+            "e": "(a), (b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 9,
+        "question": "An employee engineer would not be liable for negligence if he or she:",
+        "options": {
+            "a": "Was not licensed by the PEO",
+            "b": "Tried his or her best",
+            "c": "Did what a reasonable engineer would have done in all the circumstances",
+            "d": "Was inexperienced"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 10,
+        "question": "The purpose of tort law is:",
+        "options": {
+            "a": "To punish careless people",
+            "b": "To make careless people liable to provide compensation to their victims",
+            "c": "To encourage people to be careful",
+            "d": "(b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 11,
+        "question": "What insurance would a design-builder purchase to protect itself from faulty designs:",
+        "options": {
+            "a": "Liability",
+            "b": "Errors and omissions",
+            "c": "Property",
+            "d": "(a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 12,
+        "question": "An engineer who prepares and delivers to a client a report which contains a negligent misstatement:",
+        "options": {
+            "a": "May be protected by a disclaimer in the report",
+            "b": "Is never liable to a third-party purchaser of the report",
+            "c": "Both of the above",
+            "d": "Will always be liable to the reader of the report"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 13,
+        "question": "If an engineer provides free advice to someone:",
+        "options": {
+            "a": "The engineer will be responsible for the adequacy of the advice",
+            "b": "The engineer will not be responsible for the adequacy of the advice",
+            "c": "The engineer has committed professional misconduct",
+            "d": "The engineer may be liable for the adequacy of the advice under contract law"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 14,
+        "question": "Does the Province of Ontario have the right to enact a law that puts conditions on a person's ability to seek a patent?",
+        "options": {
+            "a": "Yes",
+            "b": "No"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 15,
+        "question": "If a contractor posts a performance bonds as security for performance of its obligations under a contract:",
+        "options": {
+            "a": "The surety will make sure the obligation is fulfilled if the contractor fails to perform",
+            "b": "If the surety has to pay any money under the bond, it will be able to sue the contractor",
+            "c": "The issuance of the bond will have impact on the contractor's banking arrangements",
+            "d": "(a), (b) and (c) above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 16,
+        "question": "Which of the following business organizations require the most on-going administrative obligations:",
+        "options": {
+            "a": "Joint venture",
+            "b": "Partnership",
+            "c": "Corporation",
+            "d": "Limited partnership",
+            "e": "Sole partnership"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 17,
+        "question": "If you and one friend wanted to set up a business, which forms of business would be available to you:",
+        "options": {
+            "a": "General partnership",
+            "b": "Limited partnership",
+            "c": "Corporation",
+            "d": "Sole proprietorship",
+            "e": "(a), (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 18,
+        "question": "Parliamentary supremacy was completely eliminated by the Constitution Act and the Charter of Rights and Freedoms:",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 19,
+        "question": "A contractor that arranges for the posting of a letter of credit will never be liable to its bank if the bank has to pay out any money under the letter of credit:",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 20,
+        "question": "Which of the following project structures allows for the most co-operation between the owner and the designer with the least amount of coordination by the owner:",
+        "options": {
+            "a": "Design-build",
+            "b": "Multi-designers",
+            "c": "Traditional",
+            "d": "All the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 21,
+        "question": "Which form of security is the easiest to recover monies under:",
+        "options": {
+            "a": "Letter of credit",
+            "b": "Performance bond",
+            "c": "Guarantee",
+            "d": "None of the above",
+            "e": "a and b above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 22,
+        "question": "An insured party under property insurance policy will not be covered for the following exposures:",
+        "options": {
+            "a": "Errors is design",
+            "b": "Faulty workmanship",
+            "c": "Claims in excess of the policy limit",
+            "d": "All of the above",
+            "e": "(a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 23,
+        "question": "Which of the following factors are not important in the decision as to which business structure is appropriate:",
+        "options": {
+            "a": "Tax",
+            "b": "Liability issues",
+            "c": "Cost",
+            "d": "Number of people invested in the business",
+            "e": "The number of locations in which the business be operated"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 24,
+        "question": "In the trial of an engineer accused of negligence:",
+        "options": {
+            "a": "An expert witness' oral testimony would not be allowed because the expert did not witness the incident",
+            "b": "The judge must always abide by an expert witness' report as to engineering matters",
+            "c": "An expert witness may never be called to give evidence at the trial",
+            "d": "Both (a) and (c)",
+            "e": "An expert witness could be called to give expert evidence at the trial"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 25,
+        "question": "In which of the following project structures will an owner be deemed to be the \"constructor\" under the Occupational Health and Safety Act?",
+        "options": {
+            "a": "Traditional",
+            "b": "Construction management",
+            "c": "Design-build",
+            "d": "All of the above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 26,
+        "question": "If the owner retains a designer to produce a set of drawings and that owner wishes to be able to use the drawings to make future modifications to the building, it must:",
+        "options": {
+            "a": "Have the copyright in the drawings assigned to it",
+            "b": "Have a licence granted to it to make such use of drawings",
+            "c": "Have the moral rights of the designer waived",
+            "d": "(a) and (c) or (b) and (c)",
+            "e": "(a), (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 27,
+        "question": "If a law is declared ultra-vires, it means that it:",
+        "options": {
+            "a": "Is void",
+            "b": "Has limited application",
+            "c": "Is beyond the authority of the enacting government",
+            "d": "Both (a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 28,
+        "question": "Which forms of security is the easiest to take advantage of:",
+        "options": {
+            "a": "Unconditional letter of credit",
+            "b": "Performance bond",
+            "c": "Guarantee",
+            "d": "None of the above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 29,
+        "question": "Which forms of security of payment requires involvement of a third party:",
+        "options": {
+            "a": "Lien",
+            "b": "Letters of credit",
+            "c": "Guarantee",
+            "d": "None of the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 30,
+        "question": "Which forms of security of payment affects a grantor's credit capacity:",
+        "options": {
+            "a": "Lien",
+            "b": "Letters of credit",
+            "c": "Guarantee",
+            "d": "None of the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 31,
+        "question": "In which of the following instances can the courts declare a provincial law to be invalid:",
+        "options": {
+            "a": "The law reduces ones freedom of association",
+            "b": "The law reduces ones freedom of religion",
+            "c": "The subject matter of the law is set out in Section 91 of the Constitution Act",
+            "d": "All of the above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 32,
+        "question": "A party who commences a lawsuit, loses that lawsuit at trial and then commences an appeal will at various stages of the lawsuit be referred to as:",
+        "options": {
+            "a": "Plaintiff and appellant",
+            "b": "Defendant and appellant",
+            "c": "Plaintiff and respondent",
+            "d": "Defendant and respondent",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 33,
+        "question": "A typical lawsuit includes the following steps:",
+        "options": {
+            "a": "Issuance of a statement of claim",
+            "b": "Issuance of a statement of defence",
+            "c": "Documentary and oral discoveries",
+            "d": "All of the above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 34,
+        "question": "Most property insurance policies include the following exclusions:",
+        "options": {
+            "a": "Faulty workmanship",
+            "b": "Faulty design",
+            "c": "Both (a) and (b)",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 35,
+        "question": "The doctrine of parliamentary supremacy is best described as:",
+        "options": {
+            "a": "No longer existing in Canada",
+            "b": "Replaced with the Charter of Rights and Freedoms",
+            "c": "Still existing in Canada",
+            "d": "(a) and (b) above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 36,
+        "question": "Which of the following project structures is most likely to be required by a lender in a project-financed project:",
+        "options": {
+            "a": "Traditional",
+            "b": "Construction management",
+            "c": "Design-build",
+            "d": "All of the above",
+            "e": "(a) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 37,
+        "question": "An invention of an employee unrelated to the employees' job made on an employer's time with the employer's materials and at the expense of the employer:",
+        "options": {
+            "a": "Becomes the property of the employer unless there is an agreement otherwise",
+            "b": "Becomes the property of the employer unless the employer waives its rights to the invention",
+            "c": "Becomes the property of the employer unless the employee pays the employer for the costs of the invention",
+            "d": "(a), (b) and (c) above",
+            "e": "Does not become the property of the employer"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 38,
+        "question": "If you have an invention that has the potential to be valuable for more than 20 years, which intellectual property rights would you most likely rely on:",
+        "options": {
+            "a": "Patent",
+            "b": "Trademark",
+            "c": "Copyright",
+            "d": "Trade secret",
+            "e": "Industrial design"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 39,
+        "question": "Which of the following intellectual property rights don't require registration in order to be effective:",
+        "options": {
+            "a": "Patents",
+            "b": "Trademarks",
+            "c": "Copyright",
+            "d": "None of the above",
+            "e": "(a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 40,
+        "question": "Case Management Rules are rules which:",
+        "options": {
+            "a": "The court system has adopted to expedite cases and eliminate or reduce delays",
+            "b": "The Law Society imposes upon lawyers to ensure proper representation of clients",
+            "c": "The police force uses to manage criminal prosecutions",
+            "d": "All of the above",
+            "e": "(a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 41,
+        "question": "The criteria to register a patent includes that the invention be:",
+        "options": {
+            "a": "Novel and useful",
+            "b": "Related only to machines",
+            "c": "Reduced to something physical",
+            "d": "(a), (b) and (c)",
+            "e": "(a) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 42,
+        "question": "Based on the theory of precedent, among the following courts which court's decisions would take precedence:",
+        "options": {
+            "a": "Supreme Court of Ontario",
+            "b": "Ontario Court of Justice",
+            "c": "British Columbia Court of Justice",
+            "d": "None of the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 43,
+        "question": "Piercing the corporate veil means that:",
+        "options": {
+            "a": "A director of a corporation may be personally sued for the actions of a corporation",
+            "b": "A shareholder of a corporation maybe personally sued for the actions of the corporation",
+            "c": "An employee of a corporation may be personally sued for the actions of the corporation",
+            "d": "All of the above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 44,
+        "question": "If two people want to form a business and wish to try and eliminate personal liability, they would:",
+        "options": {
+            "a": "Incorporate a provincial corporation",
+            "b": "Incorporate a federal corporation",
+            "c": "Set up a partnership",
+            "d": "All of the above",
+            "e": "(a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 45,
+        "question": "What are the exceptions to requiring leave to appeal to the Supreme Court of Canada?",
+        "options": {
+            "a": "A matter of national importance",
+            "b": "A first degree murder conviction",
+            "c": "A contravention of the Charter of Rights and Freedoms",
+            "d": "All of the above",
+            "e": "(b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 46,
+        "question": "The \"deep pocket\" principle best describes:",
+        "options": {
+            "a": "The tax advantages of carrying in business under a corporation rather than under a sole proprietorship",
+            "b": "The division of federal and provincial taxation authority under the Canadian constitution",
+            "c": "A rationale for establishing an employer's liability",
+            "d": "The purpose of tort law",
+            "e": "A charge under the Criminal Code"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 47,
+        "question": "What issues are within the jurisdiction of the Divisional Court?",
+        "options": {
+            "a": "Appeals of interim orders made by a judge",
+            "b": "Appeals of final orders made by a judge if the order stipulates a payment less than $25,000",
+            "c": "Reviews of decisions made by government tribunals",
+            "d": "All of the above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 48,
+        "question": "Which one of the following project structures is most conducive to be a \"fast-tracked\" project:",
+        "options": {
+            "a": "Traditional",
+            "b": "Design-build",
+            "c": "Construction management",
+            "d": "All of the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 49,
+        "question": "Which of the following principles apply to the theory of precedent:",
+        "options": {
+            "a": "A court must follow the decision of a higher court",
+            "b": "A must follow the decision of another judge of the same court",
+            "c": "The decisions of the Supreme Court of Canada must be followed by all courts",
+            "d": "(a) and (c) above",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 50,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "If one party makes an innocent misrepresentation, the other party had the right to sue for damages",
+            "b": "Contra proferentum is the legal principle whereby a court will interpret an ambiguous clause in favor of the party that drafted the clause",
+            "c": "A stipulated price contract contains unit prices and the final contract price is determined by the actual number of units to complete the work",
+            "d": "A guaranteed maximum price contract is a hybrid between a fixed price contract and stipulated price contract",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 51,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "A contract is usually enforceable if the non-mistaken party did not know of the mistake made by the other party at the time the contract was signed",
+            "b": "Contra proferentum is the legal principle whereby a court will interpret an ambiguous clause in favor of the party that drafted the clause",
+            "c": "A court will apply a liberal construction approach to the interpretation of limitation of liability clauses",
+            "d": "A court will always permit extraneous evidence to be used to interpret contract clauses",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 52,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "Contract A/Contract B is a legal principle applied to ensure that one party to a contract does not take advantage of the other party's mistake",
+            "b": "Penalty clauses in contracts are sometimes enforceable",
+            "c": "A non-defaulting or innocent party can sue for breach of contract only to recover indirect or consequential damages",
+            "d": "Limitation of liability clauses are not enforceable",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 53,
+        "question": "Which of the following are necessary elements of an enforceable contract?",
+        "options": {
+            "a": "An offer made and estoppel",
+            "b": "Consideration and mutual intent",
+            "c": "Capacity and irrevocable offer",
+            "d": "Both (a) and (b)",
+            "e": "Both (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 54,
+        "question": "Which of the following are necessary elements of an enforceable contract?",
+        "options": {
+            "a": "An irrevocable offer made and accepted",
+            "b": "Capacity and mutual intent",
+            "c": "A promise and estoppel",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 55,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "The case of Hunter vs. Syncrude is a case dealing with Quantum Meruit",
+            "b": "A limitation of liability clause which limits one party's liability to $1.00 is not enforceable",
+            "c": "Equitable estoppel is a legal principle applied to ensure that one party to a contract can take advantage of the other party's mistake",
+            "d": "Both (b) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 56,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "Equitable estoppel is a legal principle applied to ensure that one party to a contract does not take advantage of the other party's mistake",
+            "b": "The case of Hunter vs. Syncrude is a leading case dealing with fundamental breach of contract",
+            "c": "A limitation of liability clause which limits one party's liability to $1.00 is not enforceable",
+            "d": "Both (b) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 57,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Types of duress include economic duress and threatened violence",
+            "b": "The case of Gotaverken Energy Systems vs. Cariboo Pulp and Paper is a case dealing with duress",
+            "c": "Where an innocent party claims that undue influence has been exerted by the other party to a contract, the innocent party must take prompt action when the undue influence or threat is removed",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 58,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Two types of duress are threatened violence and undue influence",
+            "b": "Courts always adopt a strict construction approach to contract interpretation",
+            "c": "Courts will always look to extraneous evidence when interpreting the terms of a contract",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 59,
+        "question": "As general legal principles, in the event of a breach of contract, which of the following are true statements?",
+        "options": {
+            "a": "The non-defaulting party is required to increase its damages as much as possible",
+            "b": "The non-defaulting party may in certain circumstances be entitled to terminate the contract",
+            "c": "The defaulting party may be required to compensate the non-defaulting party for its indirect or consequential damages suffered as a result of the breach of contract",
+            "d": "Both (b) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 60,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "Courts will imply a term into a contract when necessary to give the contract business efficacy",
+            "b": "The Parol Evidence Rule applies to documents or happenings prior to, or contemporaneously with the making of the contract",
+            "c": "Specific performance is a remedy which is always available to a non-defaulting party where there has been a breach of contract",
+            "d": "The legal principle of frustration that the performance of the contract becomes impossible and not just more expensive",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 61,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "A minor does not have the legal capacity to enter into any contracts",
+            "b": "The Statute of Frauds requires some contract to be in writing",
+            "c": "Duress and undue influence are examples of a lack of consideration",
+            "d": "Most corporations have the legal capacity of a natural person to enter into a contract",
+            "e": "Both (a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 62,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "Offers may be accepted by facsimile (fax)",
+            "b": "Both parties must have a mutual intention to enter into a contract",
+            "c": "Contract must always be in writing",
+            "d": "Both (b) and (c)",
+            "e": "Both (a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 63,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Consideration may consist of an exchange of promises to provide something of value",
+            "b": "Quantum Meruit is the legal principle by which a court may enforce an otherwise unenforceable gratuitous promise",
+            "c": "Letters of intent are only expressions of interest and are never enforceable",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 64,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Consideration can simply be the exchange of $1.00 between two parties to a contract",
+            "b": "Most offers are revocable even if states to be irrevocable unless special formalities are followed",
+            "c": "Quantum Meruit is the legal principle applied by courts to determine whether a limitation of liability clause in enforceable",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 65,
+        "question": "The Hedley Byrne vs. Heller case is important to engineers because it establishes that:",
+        "options": {
+            "a": "Reliance on professional skill and judgement can give rise to a duty of care",
+            "b": "Professionals may be liable for negligent advice",
+            "c": "Both of the above",
+            "d": "A disclaimer will not protect a professional from liability for negligent advice"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 66,
+        "question": "The Hedley Byrne vs. Heller case is important to engineers because it establishes that:",
+        "options": {
+            "a": "Professionals may be liable for negligent advice",
+            "b": "Reliance on professional skill and judgement can give rise to a duty of care",
+            "c": "A disclaimer may protect a professional from liability for negligent advice",
+            "d": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 67,
+        "question": "A defendant who is concurrently liable in tort and contract:",
+        "options": {
+            "a": "Is liable to more than one plaintiff at the same time",
+            "b": "Is liable under tort and contract at the same time",
+            "c": "Has limited liability under the new Limitations Act, 2002",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 68,
+        "question": "Limitations periods establish:",
+        "options": {
+            "a": "The scope of the engineers scope of services",
+            "b": "The maximum hourly rates which professionals may charge for their services",
+            "c": "The rate of tax which must be paid in Canada",
+            "d": "The time period within which an action be commenced by the plaintiff",
+            "e": "The deadline by which an engineer must deliver his or her report to a client"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 69,
+        "question": "The Donoghue vs. Stevenson case establishes that:",
+        "options": {
+            "a": "Reliance on professional skill and judgement can give rise to a duty of care",
+            "b": "A disclaimer will not protect a professional from liability for negligent advice",
+            "c": "Engineers may be liable for economic loss",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 70,
+        "question": "Which of the following will affect the enforceability of a contract?",
+        "options": {
+            "a": "The acceptance of an offer was communicated by facsimile (fax)",
+            "b": "The contract is verbal and is for performance of services over a period of six month",
+            "c": "The consideration for the contract is $1.00",
+            "d": "The contract contains a dispute resolution clause",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 71,
+        "question": "Which of the following will affect the enforceability of a contract?",
+        "options": {
+            "a": "The acceptance of an offer was communicated by facsimile (fax)",
+            "b": "The contract requires that all disputes must be resolved by using binding arbitration",
+            "c": "The contract contains a limitation of liability clause",
+            "d": "There is no consideration, but the contract is under seal",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 72,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Special formalities are required to ensure irrevocability of an offer",
+            "b": "Most offers are revocable even if they are states to irrevocable",
+            "c": "Offers must be accepted in their entirety, otherwise it is simply a counter-offer",
+            "d": "Both (a) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 73,
+        "question": "Which of the following project structures has the highest risk when it comes to the Occupational Health and Safety Act:",
+        "options": {
+            "a": "Traditional",
+            "b": "Design-build",
+            "c": "Construction management",
+            "d": "Multi-designers",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 74,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Dabous vs. Zuliani is a case dealing with inspection services",
+            "b": "Engineers can be concurrently liable for breach of contract and for negligence",
+            "c": "In administrating the term of a construction contract, an engineer may be required to make decisions affecting the rights of the owner and the contractor.",
+            "d": "Both a and b",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 75,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "If one party makes a fraudulent misrepresentation, the other party has the right to sue for damages",
+            "b": "An engineer is not normally a party to construction contract between an owner and a contractor",
+            "c": "The case of Dabous vs. Zuliani is a case dealing with improper inspection services by an architect",
+            "d": "Contract A and Contract B are legal terms used to describe contracts that may arise in a bid and tender procurement process",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 76,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "Memorandums of understanding are expression of interest and are always enforceable",
+            "b": "If an offer is accepted by mail, the contract is formed when the mail is received by the other party",
+            "c": "Quantum Meruit is the legal principle by which a court may enforce an otherwise unenforceable gratuitous promise",
+            "d": "Both (b) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 77,
+        "question": "Which of the following business organizations would be best to protect two business partners from personal liability:",
+        "options": {
+            "a": "Partnership",
+            "b": "Sole proprietorship",
+            "c": "Corporation",
+            "d": "Joint venture",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 78,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "The old approach to tendering disputes was based on the court decision of Ron Engineering which applied the legal doctrine of mistake",
+            "b": "The new approach to tendering disputes is based on the court decision of Belle River which applied the Contract A / Contract B approach",
+            "c": "The Supreme Court of Canada in the MJB Enterprises decision established that an owner owes a duty of good faith to all contractors submitting a compliant bid",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 79,
+        "question": "Which of the following project structures reduces the likelihood of the owner facing arguments from the designer and contractor that the other is at fault:",
+        "options": {
+            "a": "Construction management",
+            "b": "Multi-designers",
+            "c": "Traditional",
+            "d": "Design-build",
+            "e": "Engineering procurement and construction management"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 80,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "The case of Davis Contractors vs Fareham Urban District Council is a case dealing with contract frustration",
+            "b": "Some of the remedies which may be available to a non-defaulting party in the event of a breach of contract include: termination, specific performance and injunctions",
+            "c": "Quantum Meruit is a legal principle applied when there are no contract provisions dealing with contract price",
+            "d": "Both (a) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 81,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Engineers may be required to act as a client's agent",
+            "b": "Engineers can never be concurrently liable for breach of contract and for negligence",
+            "c": "In administering the terms of a construction contract, an engineer may be required to make decisions affecting the rights of the owner and the contractor",
+            "d": "Both (a) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 82,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Courts will enforce liquidated damages clauses in a contract if they are a genuine pre-estimate of damages",
+            "b": "The legal principle of substantial compliance is usually explicitly stated in modern construction contracts",
+            "c": "The purposes of an injunction is to enforce a promise not to do something",
+            "d": "The remedy of specific performance is most often applied in sale of land cases",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 83,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "There are three types of misrepresentation: innocent, negligent and fraudulent",
+            "b": "Only where one of the parties to a contract makes an innocent misrepresentation can the innocent party rescind the contract",
+            "c": "The legal principle of negligent misrepresentation does not apply to contract",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 84,
+        "question": "Which of the following business organizations results in the least amount of tax being initially paid by the business:",
+        "options": {
+            "a": "Sole proprietorship",
+            "b": "Corporation",
+            "c": "Partnership",
+            "d": "Limited partnership",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 85,
+        "question": "If two business partners choose a corporation as their business organization, can each of them be:",
+        "options": {
+            "a": "A shareholder",
+            "b": "A director",
+            "c": "An employee",
+            "d": "(a), (b) and (c) above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 86,
+        "question": "Nuisance law:",
+        "options": {
+            "a": "May result in an injunction",
+            "b": "Prevents a person making unreasonable use of his or her land",
+            "c": "Protects a person's right to make reasonable use of his or her land",
+            "d": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 87,
+        "question": "In a negligence claim, the plaintiff must provide enough evidence against the defendant to prove the claim:",
+        "options": {
+            "a": "With absolute certainty",
+            "b": "On a balance of probabilities",
+            "c": "Beyond a reasonable doubt",
+            "d": "Beyond a shadow of doubt"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 88,
+        "question": "When an employee acting within the reasonable scope of his or her responsibility commits negligence, vicarious liability means that:",
+        "options": {
+            "a": "The employer is responsible",
+            "b": "The employee is not responsible",
+            "c": "The employee is responsible",
+            "d": "(a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 89,
+        "question": "In a trial of a negligent engineer, where an expert witness is called to testify:",
+        "options": {
+            "a": "Only one expert witness may testify",
+            "b": "It is the judge's duty to present the expert's testimony",
+            "c": "The expert witness may express his or her opinions",
+            "d": "The judge must abide by the expert's determination of the applicable standard of care"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 90,
+        "question": "Which of the following statement is false?",
+        "options": {
+            "a": "Courts will only look to the express terms of a contract in all cases.",
+            "b": "Some contractual terms may be implied unless they are specifically excluded in the contract",
+            "c": "Courts will imply a term when it is necessary to give the contract 'business efficacy'",
+            "d": "Both (a) and (b)",
+            "e": "Both (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 91,
+        "question": "Which of the following will not negatively affect the enforceability of the contract?",
+        "options": {
+            "a": "The offer and acceptance were communicated by email",
+            "b": "The consideration given was not sufficient",
+            "c": "The contract contemplates that someone will commit a criminal act in its performance.",
+            "d": "The contract is verbal and if for performance of services to be performed over a period of 6 months but starting 18 months after the contract was formed",
+            "e": "Both a and b"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 92,
+        "question": "Which of the following statements is false?",
+        "options": {
+            "a": "The legal principle of force majeure applies only to certain types of contracts such as services or performance contracts.",
+            "b": "Where one party breaches any term of a contract the innocent party is always entitled to terminate the contract",
+            "c": "Specific performance and injunctions are remedies, which are always available to a non-defaulting party in the event of a breach of contract by the other party.",
+            "d": "Both (b) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 93,
+        "question": "When an expert engineer is called to testify at a trial of an engineer who has been accused of negligence:",
+        "options": {
+            "a": "It is the judge's duty to select the expert",
+            "b": "The judge must abide by the expert's opinion on engineering matters",
+            "c": "(a) and (b)",
+            "d": "The expert witness may express his or her opinions"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 94,
+        "question": "An engineer firm would not be liable for negligence if:",
+        "options": {
+            "a": "The damages were only economic",
+            "b": "Economic loss was not specifically identified as a special circumstance in the engineer firm's services agreement with its client",
+            "c": "The engineering firm did not foresee the damages",
+            "d": "By pure luck, the engineering firm's careless conduct caused no damages"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 95,
+        "question": "If a client hired an engineer for a project and the engineer is negligent in carrying out his or her services, the Limitations Act, 2002:",
+        "options": {
+            "a": "Will place a dollar limit on the engineer's total liability",
+            "b": "May be used by the engineer to protect himself or herself from liability",
+            "c": "Would never apply to the engineer",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 96,
+        "question": "Which of the following are required elements of an enforceable contract:",
+        "options": {
+            "a": "An offer and written acceptance and intent",
+            "b": "Consideration and legality of purpose",
+            "c": "Legal capacity of the parties and detrimental reliance by one party on the other's promise",
+            "d": "Both (a) and (b)",
+            "e": "Both (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 97,
+        "question": "An agreement between two parties may require that a dispute be:",
+        "options": {
+            "a": "Arbitrated as opposed to litigated",
+            "b": "That the decision of the arbitrator(s) be final and binding",
+            "c": "That the parties will share the administrative cost of any arbitration",
+            "d": "All of the above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 98,
+        "question": "Under a traditional project structure involving an owner, the owner's engineer and the owner's general contractor:",
+        "options": {
+            "a": "The engineer owes a duty of care to the owner",
+            "b": "The engineer can only be liable to the owner",
+            "c": "The engineer owes a duty of care to the general contractor",
+            "d": "(a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 99,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "An engineering company cannot legally limit its liability under an engineering services agreement",
+            "b": "An engineering company providing engineering services in Ontario can enter into an enforceable contract without obtaining a certificate of authorization from the PEO",
+            "c": "An engineer cannot act as an agent for the client",
+            "d": "An engineer acting as a consultant for an owner on a construction project does not owe a duty of care to the contractor on the project",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 100,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "Mediation is an alternative dispute resolution mechanism",
+            "b": "The decisions of an arbitrator are always final and binding",
+            "c": "The Arbitration Act of Ontario provides for certain rights to have decisions of an arbitrator appealed to a court of law",
+            "d": "The use of dispute resolution boards is an illegal method of dealing with disputes",
+            "e": "Both (a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 101,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Negotiation, mediation and arbitration are forms of dispute resolution",
+            "b": "Courts almost always enforce arbitration agreements",
+            "c": "The rights of appeal under the Arbitration Act are limited",
+            "d": "Dispute resolution boards and partnering are alternate forms of dispute resolution mechanisms",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 102,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "Negotiation, mediation and arbitration are forms of dispute resolution",
+            "b": "The decisions of an arbitration panel can never be binding upon the partier to a contract",
+            "c": "The Arbitration Act of Ontario does not allow decisions of an arbitrator to be appealed to a court of law",
+            "d": "Dispute resolution boards and partnering are alternate forms of dispute resolution mechanisms",
+            "e": "Both (a) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 103,
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "a": "Fundamental breach of a contract may relieve the innocent party of its obligations under the contract",
+            "b": "Breach of a condition of a contract may relieve the innocent party of its obligations under the contract",
+            "c": "Fundamental breach of a contract may cause a limitation clause be unenforceable",
+            "d": "Both (a) and (b)",
+            "e": "Both (a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 104,
+        "question": "Which of the following statements is correct?",
+        "options": {
+            "a": "The courts can use the doctrine of \"Quantum Meruit\" to prevent an engineering from charging too much for her work",
+            "b": "The \"Parol Evidence Rule\" applies to verbal statements but not to a document such as a letter or memo",
+            "c": "The courts will apply the doctrine of equitable estoppel whenever necessary to prevent an unfair result",
+            "d": "The courts will not permit a party to accept an offer if the offeree (person to whom the offer is made) knows that the offeror has made a mistake",
+            "e": "Both (c) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 105,
+        "question": "Advantages of arbitration over litigation include all of the following except:",
+        "options": {
+            "a": "Privacy",
+            "b": "Binding decisions",
+            "c": "Often cheaper",
+            "d": "Quicker decisions",
+            "e": "Ability to choose a knowledgeable decision maker"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 106,
+        "question": "Which of the following statements is incorrect?",
+        "options": {
+            "a": "Three types of surety bonds commonly used in the construction industry are Bids Bonds,",
+            "b": "Surety bonds are a promise by a surety (usually an insurance company) to guarantee an obligation of a contractor",
+            "c": "Surety bonds are just like insurance: a customer pays a premium to insure against the possibility that the contractor will not be able to fulfill its obligations",
+            "d": "The contractor providing the surety bond, and usually its shareholders, will be required to indemnify the surety against any losses the surety might incur if there is a claim on the surety bond",
+            "e": "Both (b) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 107,
+        "question": "As general legal principles, in the event of a breach of contract, which of the following are true statements?",
+        "options": {
+            "a": "The non-defaulting party is required to mitigate its damages",
+            "b": "The non-defaulting party is always entitled to terminate the contract",
+            "c": "The non-defaulting party is never entitled to recover its indirect or consequential damages",
+            "d": "Both (b) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 108,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "The parol evidence rule provides that all extraneous evidence will be allowed to interpret any contract term",
+            "b": "Specific performance is a remedy which is available to a non-defaulting party under certain circumstances in the event of a breach of contract by the other party",
+            "c": "The legal principle of frustration that performance of the contract becomes impossible and not just more expensive",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 109,
+        "question": "If a court finds that a plaintiff has committed contributory negligence:",
+        "options": {
+            "a": "The plaintiff and the defendant are liable in contract and tort",
+            "b": "The defendant is not required to compensate the plaintiff",
+            "c": "The amount of compensation paid is reduced",
+            "d": "(a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 110,
+        "question": "A subcontractor who negligently performs work on an owner's construction project:",
+        "options": {
+            "a": "Can only be liable to the general contractor",
+            "b": "Can be liable directly to the owner",
+            "c": "Will not be liable to the owner for economic loss",
+            "d": "Will cause the general contractor be vicariously liable to the owner"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 111,
+        "question": "The Limitations Act of 2002 prevents a plaintiff from suing a defendant:",
+        "options": {
+            "a": "Not until six years after the time of the action arose",
+            "b": "After fifteen years after the events occurred",
+            "c": "After two years after discoverability of the claim",
+            "d": "After whichever of the two limitation periods described in (b) or (c) ends earlier"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 112,
+        "question": "According to the Limitations Act of 2002:",
+        "options": {
+            "a": "The parties to a contract may agree to change the applicable limitation period that applies to them",
+            "b": "Any such agreement to change the applicable limitation period is void",
+            "c": "The concept of discoverability is no longer relevant",
+            "d": "The concept of discoverability does not apply to tort claims"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 113,
+        "question": "If the owner of a construction project sues a subcontractor for negligence:",
+        "options": {
+            "a": "The subcontractor cannot be found negligent because the subcontractor is not a professional",
+            "c": "The subcontractor can only be liable to the contractor who hired the subcontractor",
+            "d": "The owner must prove that the subcontractor acted unprofessionally"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 114,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "There are only three types of misrepresentation: innocent, negligent and criminal",
+            "b": "Courts never adopt a liberal approach to contract interpretation",
+            "c": "Courts will never consider implied terms in interpreting a contract",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 115,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "Three types of misrepresentation include innocent misrepresentation, negligent misrepresentation and irrefutable misrepresentation",
+            "b": "An engineering company providing services under a contract with an owner can only be liable for breach of contract",
+            "c": "An engineer retained by a contractor on a design-build project to prepare construction drawings for a construction project owes a duty of care to the owner of the project",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 116,
+        "question": "Which of the following statements is incorrect?",
+        "options": {
+            "a": "A stipulated price contract may be the best option if the owner has already engaged consultants who have prepared a complete design for the proposed construction project",
+            "b": "A cost-plus contract may be the only realistic option if a project is not fully designed and major uncertainties still exist regarding the difficulties which may be faced by the contractor",
+            "c": "Cost-plus contract arrangements are relatively simple to administer compared to a stipulated price contract",
+            "d": "A cost-plus with a guaranteed maximum price is a realistic alternative if the design for a project is reasonably complete and the uncertainties are reasonably well understood",
+            "e": "Both (a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 117,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "A party to a contract may be considered to have repudiated a contract if that party announced by its words or actions that is had no intention of completing the contract",
+            "b": "The innocent party may elect to accept the other party's repudiation or continue with the contract (if possible)",
+            "c": "In the case of a repudiation, the damages are calculated for the date of signing the contract",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 118,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "The breach of a fundamental term or condition of a contract will entitle the non-defaulting party to terminate the contract",
+            "b": "Some of the remedies may be available to a non-defaulting party in the event of a breach of contract include: termination, specific performance and frustration",
+            "c": "Liquidated damages clauses are enforceable if they are a genuine pre-estimate of damages",
+            "d": "Both (a) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 119,
+        "question": "Which of the following statements is incorrect?",
+        "options": {
+            "a": "Repudiation occurs when one party announces by words or action that is had no intention of completing the contract",
+            "b": "One of the options available to the innocent party, if the other has repudiated, is to elect to continue with the contract, if possible, and then sue for the contract price",
+            "c": "The general principle to an award of damages is that the award should, as much as money can do, put the innocent party in the position it would have been had the contract been completed (subject to issues of remoteness)",
+            "d": "When possible, a court will grant specific performance or injunctive relief out of a concern that monetary damages will not be sufficient",
+            "e": "In addition to the common law rights to terminate, the parties may define other breaches of contract which will entitle the other to terminate the contract"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 120,
+        "question": "Which of the following statements about a contract between an engineer and her client is incorrect?",
+        "options": {
+            "a": "The engineering may not limit her liability to the client for breach of contract or negligence to less than the amount of insurance available",
+            "b": "The engineering may limit her liability to the client for breach of contract but not for negligence",
+            "c": "Both (a) and (b)",
+            "d": "The client and the engineer may agree to vary the standard of care that the engineer will employ, but if the contract is silent, the court will apply the negligence standard",
+            "e": "(c) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 121,
+        "question": "Which of the following will not negatively affect the enforceability of the contract?",
+        "options": {
+            "a": "The contract was made with a minor person",
+            "b": "The consideration given was not sufficient",
+            "c": "Both (a) and (b)",
+            "d": "The contract contemplates that someone will commit a criminal act in its performance",
+            "e": "The contract is verbal and is for performance of services over a period of 18 months"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 122,
+        "question": "Which of the following statements is not correct?",
+        "options": {
+            "a": "(b) and (c) below",
+            "b": "If an arbitration agreement is in effect, the courts will almost always stay an action commenced by a party who wishes to avoid the arbitration agreement",
+            "c": "Mediation is type of non-binding alternative dispute resolution",
+            "d": "If there is a partnering agreement for a project, the parties must agree never to sue each other",
+            "e": "A project neutral attempts to resolve disputes quickly before they can escalate"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 123,
+        "question": "If an engineer is sued under the law of negligence, the engineer would not be liable:",
+        "options": {
+            "a": "If the engineer is not licensed as a P. Eng.",
+            "b": "If the engineer had tried his or her best",
+            "c": "If the engineer did what a reasonable engineer would have done in all the circumstances",
+            "d": "If the engineer was in experienced"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 124,
+        "question": "If a patent is infringed, the owner of the patent can obtain:",
+        "options": {
+            "a": "An injunction to stop the infringement",
+            "b": "Recovery of damages sustained by the owner",
+            "c": "Recovery of profits earner by the infringer",
+            "d": "Both (a) and (b)",
+            "e": "All of (a), (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 125,
+        "question": "What are the advantages of a dispute review board (DRB):",
+        "options": {
+            "a": "The DRB can be set up with panelists who are experts in the construction matters",
+            "b": "The DRB is established at the beginning of the project and is available to respond to disputes as they arise",
+            "c": "The decisions of the DRB are never subject to appeal",
+            "d": "All of (a), (b) and (c)",
+            "e": "Both (a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 126,
+        "question": "Which of the following dispute resolution techniques entail the assistance of a third party?",
+        "options": {
+            "a": "Partnering",
+            "b": "Negotiation",
+            "c": "Mediation",
+            "d": "Arbitration",
+            "e": "All of (a), (c) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 127,
+        "question": "Slander and defamation:",
+        "options": {
+            "a": "Are the same as fraud",
+            "b": "Are torts",
+            "c": "Both of the above",
+            "d": "Are the same thing"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 128,
+        "question": "According to the law of negligence, an engineer performing services owes a duty of care to:",
+        "options": {
+            "a": "Anyone whom the engineer knows is relying on the engineer",
+            "b": "Only the person who is responsible for paying the engineer",
+            "c": "Anyone whom a reasonable engineer would be expected to know is relying on the engineer",
+            "d": "(a) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 129,
+        "question": "According to the law of negligence, an engineer who prepares and delivers to a client a report which contains a negligent misstatement:",
+        "options": {
+            "a": "May be protected by a disclaimer in the report",
+            "b": "May be protected by the terms of the engineer's contract with the client",
+            "c": "Both of the above",
+            "d": "Will be liable even if no damages result"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 130,
+        "question": "Under product liability, the ultimate consumer of a product:",
+        "options": {
+            "a": "Is owed a duty of care by the manufacturer of the product",
+            "b": "Is owed a duty of care by the seller of the product",
+            "c": "Is entitled to sue for injuries caused by the product even if the consumer did not purchase the product",
+            "d": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 131,
+        "question": "When dealing with product liability law, a duty of care is owed by the manufacturer to:",
+        "options": {
+            "a": "All purchasers of the product",
+            "b": "Nobody",
+            "c": "All users and consumers of the product",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 132,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "An engineering company cannot legally limit its liability under an engineering services agreement.",
+            "b": "An engineering company providing engineering services can enter into an enforceable contract without obtaining a certificate of authorization from the PEO",
+            "c": "An engineer acting as a consultant for an owner on a construction project does not owe a duty of care to the contractor on the project.",
+            "d": "An engineer cannot act as an agent for a client",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 133,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "The Statute of Frauds requires that certain types of contracts must be in writing",
+            "b": "Force majeure events are events that occur during the performance of a contract that are beyond a person's control.",
+            "c": "Equitable estoppel is a contract principle dealing with gratuitous promises.",
+            "d": "Both (a) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 134,
+        "question": "The law of negligence imposes duties:",
+        "options": {
+            "a": "On professional engineers only",
+            "b": "On professional persons only",
+            "c": "On professional persons and corporations only",
+            "d": "On all persons generally"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 135,
+        "question": "In a trial of an engineer who has been accused of negligence, the applicable standard of care is:",
+        "options": {
+            "a": "The standard which would be used by a reasonable engineer",
+            "b": "The subjective standard",
+            "c": "The standard contained in provincial regulations of common law provinces",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 136,
+        "question": "To prove that a defendant engineer breached the duty of care under tort law, it must be established that the engineer's conduct:",
+        "options": {
+            "a": "Caused damages to a plaintiff",
+            "b": "Fell below a reasonable standard of care",
+            "c": "Breached the Code of Ethics",
+            "d": "Breached the Professional Engineers Act"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 137,
+        "question": "To prove that a defendant engineer is negligent, the plaintiff must prove:",
+        "options": {
+            "a": "That the engineer owed a duty of care to the plaintiff, the engineer breached the duty of care and the breach caused damage to the plaintiff",
+            "b": "That the engineer acted unprofessionally",
+            "c": "That the engineer breached the Engineer's Code of Ethics",
+            "d": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 138,
+        "question": "The basic limitation period in the Limitations Act of 2002 is:",
+        "options": {
+            "a": "Ten years from the act or omission giving rise to the claim",
+            "b": "Fifteen years from discoverability",
+            "c": "Six years from contract signing",
+            "d": "Two years from discoverability",
+            "e": "Eight years from the signing of the contract"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 139,
+        "question": "The ultimate limitation period in the Limitations Act of 2002 is:",
+        "options": {
+            "a": "Two years from discoverability",
+            "b": "Two years from the act or omission giving rise to the claim",
+            "c": "Six years from the act or omission giving rise to the claim",
+            "d": "Six years from the signing of the contract",
+            "e": "Fifteen years from the act or omission giving rise to the claim"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 140,
+        "question": "According to the law of tort, the engineering standard of care:",
+        "options": {
+            "a": "Is the subjective standard",
+            "b": "Is an objective standard",
+            "c": "Is a reasonable standard",
+            "d": "(b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 141,
+        "question": "Which form of security does not have a direct cost to the party posting the security:",
+        "options": {
+            "a": "Bond",
+            "b": "Guarantee",
+            "c": "Letter of Credit",
+            "d": "(a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 142,
+        "question": "The discoverability concept means:",
+        "options": {
+            "a": "The cause of action starts to run when the action or omission giving rise to the damages occurs",
+            "b": "The cause of action does not start to run until the damages is first discovered, or ought with reasonable diligence to have been discovered by the plaintiff",
+            "c": "Engineers discover mistakes in their work",
+            "d": "None of the above",
+            "e": "The cause of action only arises on the signing of the contract"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 143,
+        "question": "According to tort law, assuming a traditional project structure, the engineer owes a duty to:",
+        "options": {
+            "a": "The owner",
+            "b": "The contractor",
+            "c": "The owner and contractor",
+            "d": "The PEO"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 144,
+        "question": "In a civil trial:",
+        "options": {
+            "a": "The plaintiff has the burden of proof",
+            "b": "The defendant has the burden of proof",
+            "c": "The case must be proved beyond a reasonable doubt",
+            "d": "The case must be proved beyond the shadow of a doubt"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 145,
+        "question": "If an engineer prepares a design, the negligence standard of care means that:",
+        "options": {
+            "a": "The engineer's design must have no flaws",
+            "b": "The engineer's design must be reasonable",
+            "c": "The engineer must pay for any failure of the design",
+            "d": "The engineer must comply with PEO's Code of Ethics"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 146,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "An offer must always be in writing to be capable of acceptance",
+            "b": "Acceptance of an offer may be communicated by mail or by fax",
+            "c": "Irrevocable offers cannot be revoked if made in writing",
+            "d": "Both (b) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 147,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "Letters of intent are always enforceable",
+            "b": "The Statute of Frauds requires all contracts to be in writing",
+            "c": "Corporations do not have the ability to enter into binding and enforceable contracts",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 148,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "Letters of intent are always enforceable",
+            "b": "The Statute of Frauds requires all contracts to be in writing",
+            "c": "All corporations have the same capacity to enter into contracts as a natural person",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 149,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "A minor does not have the capacity to enter into any types of contracts",
+            "b": "Penalty clauses are enforceable under contract law",
+            "c": "The case of Conwest Exploration vs. Letain is one of the leading cases in Canada dealing with the concept of equitable estoppel",
+            "d": "Both (a) and (b)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 150,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "The case of Trunorth Exploration vs. Murphy is one of the leading cases in Canada dealing with the concept of equitable estoppel",
+            "b": "A minor has the capacity to enter into certain types contracts",
+            "c": "Penalty clauses are enforceable under contract law",
+            "d": "Both (a) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 151,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Arbitration agreements usually specify how the arbitrators will be chosen, what rules and procedures will be used and timing of the arbitration process",
+            "b": "Engineers may be concurrently liable for breach of contract and for negligence",
+            "c": "In administering the terms of a construction contract, an engineer may be required to make decisions affecting the rights of the owner and contractor",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 152,
+        "question": "Which of the following will affect the enforceability of a contract?",
+        "options": {
+            "a": "The contract requires that all disputes must be resolved using mediation before using arbitration or the courts",
+            "b": "One of the parties to the contract is a minor and the contract is not for a necessity of life",
+            "c": "The acceptance of the offer was communicated by mail",
+            "d": "The contract is for the sale of land but not in writing",
+            "e": "Both (b) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 153,
+        "question": "Concurrent tortfeasors means:",
+        "options": {
+            "a": "No party is liable in tort",
+            "b": "Only one party is liable in tort",
+            "c": "Two employees have been charged under the criminal code",
+            "d": "None of the above",
+            "e": "More than one party is liable in tort"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 154,
+        "question": "A subcontractor who negligently performs work on an owner's construction project:",
+        "options": {
+            "a": "Can only be liable to the general contractor",
+            "b": "Can be liable directly to the owner",
+            "c": "Will always be arrested",
+            "d": "Will never be liable to the owner for economic loss",
+            "e": "Can never have any liability"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 155,
+        "question": "Is an engineer prohibited from registering a claim for lien under the Construction Lien Act?",
+        "options": {
+            "a": "Yes",
+            "b": "No"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 156,
+        "question": "The attachment of ribbons on the necks of the Canadian geese in the Eaton's Center created a problem between the landlord and the artist related to:",
+        "options": {
+            "a": "Patents",
+            "b": "Copyright",
+            "c": "Moral rights",
+            "d": "Passing off",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 157,
+        "question": "If a person commits defamation:",
+        "options": {
+            "a": "That person has committed a tort",
+            "b": "That person is libel",
+            "c": "Both of the above",
+            "d": "That person's reputation has been injured"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 158,
+        "question": "To establish tort liability against a defendant, the plaintiff:",
+        "options": {
+            "a": "Must have a contract with the defendant",
+            "b": "Must have a contract with the defendant's client",
+            "c": "(a) or (b)",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 159,
+        "question": "The Hedley Byrne vs. Heller case (i.e. the banking case) is important to engineers because it establishes that:",
+        "options": {
+            "a": "A professional may be liable for economic loss",
+            "b": "Professional advice may give rise to liability",
+            "c": "A disclaimer may protect a professional from liability for negligent advice",
+            "d": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 160,
+        "question": "If a court finds that Person A committed contributory negligence:",
+        "options": {
+            "a": "Person A is a defendant",
+            "b": "Person A and the plaintiff have committed negligence",
+            "c": "Person A and the defendant have committed negligence",
+            "d": "(a) and (b)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 161,
+        "question": "If a P. Eng. is determined in court to be negligent under tort laws:",
+        "options": {
+            "a": "The plaintiff proved that the P. Eng. owed a duty of care to the plaintiff, that the P. Eng. breached the duty of care, and that the breach caused damage to the plaintiff",
+            "b": "The P. Eng. must be an employer",
+            "c": "The P. Eng. is strictly liable",
+            "d": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 162,
+        "question": "The Professional Engineers Act:",
+        "options": {
+            "a": "Is a statute and has no bearing on an engineer's liability under tort law, which is judge-made law",
+            "b": "Provides that an engineer can never be liable 12 months after his or her services were actually performed or should have been performed",
+            "c": "Provides than an engineer can never be liable 12 months after his or her services were actually performed",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 163,
+        "question": "Which of the following statements are false",
+        "options": {
+            "a": "The Statute of Frauds requires all contracts to be in writing",
+            "b": "A minor does not have the legal capacity to enter into a contract",
+            "c": "Duress and undue influence are examples of a lack of capacity",
+            "d": "All corporations have all the legal capacity of a natural person",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 164,
+        "question": "The law of negligence:",
+        "options": {
+            "a": "Applies only to engineers",
+            "b": "Applies only to professionals",
+            "c": "Applies only to professionals and their employers",
+            "d": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 165,
+        "question": "Which of the following will affect the enforceability of a contract?",
+        "options": {
+            "a": "The contract is verbal and is for performance of services over a period of ten months",
+            "b": "The acceptance of an offer was communicated by facsimile",
+            "c": "The consideration for the contract is peppercorn",
+            "d": "The contract does not contain a dispute resolution clause",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 166,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "There are only two types of misrepresentation: negligent and fraudulent",
+            "b": "If one of the parties to a contract makes a negligent misrepresentation, the innocent party is entitled to be compensated under principles of contract law for damages resulting from such misrepresentation",
+            "c": "Only where one of the parties to a contract makes a fraudulent misrepresentation, can the innocent party rescind the contract",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 167,
+        "question": "Assume Prime Minister Trudeau, Premier Wynne and Mayor Tory met and agreed that the province of Ontario would enact a law to make it a criminal offense for someone to possess an unregistered gun in public. Will the law be:",
+        "options": {
+            "a": "Ultra vires",
+            "b": "Beyond the jurisdiction of the Province of Ontario",
+            "c": "A violation of one of the fundamental freedoms",
+            "d": "(a) and (b) only",
+            "e": "(a), (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 168,
+        "question": "The attachment of red ribbons on the necks of the Canadian geese in the Eaton's Center created a problem between the landlord and the artist related to:",
+        "options": {
+            "a": "Design-build concepts",
+            "b": "Insurance coverage",
+            "c": "Moral rights",
+            "d": "Religious expression",
+            "e": "Confidential information"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 169,
+        "question": "Which of the following principles apply to the theory of precedent:",
+        "options": {
+            "a": "A court must follow the decision of a higher court",
+            "b": "A court must follow the decision of a lower court",
+            "c": "The decisions of the Supreme Court of Canada must be followed by all courts",
+            "d": "(a) and (c) above",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 170,
+        "question": "If an engineer is sued under the law of negligence, the conduct of the employee would be measured against the following standard of care:",
+        "options": {
+            "a": "The standard which would be used by a reasonable engineer",
+            "b": "The standard contained in provincial regulations outside of Quebec",
+            "c": "The subjective standard",
+            "d": "None of the above",
+            "e": "No specific standard"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 171,
+        "question": "An engineering firm would not be liable for negligence if:",
+        "options": {
+            "a": "The damages were only economic",
+            "b": "Economic loss was not specifically identified as a special circumstance in the engineer firm's services agreement with its client",
+            "c": "The engineering firm did not have a contract with the person who suffered the damages",
+            "d": "By pure luck, the engineer firm's careless conduct caused no damages",
+            "e": "The engineering firm has no insurance"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 172,
+        "question": "The \"deep pocket\" principle best describes:",
+        "options": {
+            "a": "The division of federal and provincial taxation authority under the Canadian constitution",
+            "b": "The tax advantages of carrying on business under a corporation rather than a sole proprietorship",
+            "c": "The purpose of tort law",
+            "d": "A rationale for establishing an employer's liability",
+            "e": "The employee's obligation to work long hours"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 173,
+        "question": "In a lawsuit, if there are two concurrent tortfeasors:",
+        "options": {
+            "a": "There are two defendants who are accused of contributing to a tort",
+            "b": "There are two defendants who always share the liability 50:50",
+            "c": "There are two plaintiffs who have suffered damages caused by one defendant",
+            "d": "Both (a) and (b)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 174,
+        "question": "Vicarious liability means:",
+        "options": {
+            "a": "That an employer would be responsible for the torts of its employees acting within the reasonable scope of their responsibility",
+            "b": "That the employer would be responsible for the torts of only certain employees",
+            "c": "That the employer would always be responsible for the torts of its employees",
+            "d": "That the employee would not be found liable",
+            "e": "That the employee is given a raise"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 175,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "An offer can never be withdrawn before acceptance",
+            "b": "Acceptance of an offer must be clearly communicated",
+            "c": "Special formalities are required to ensure irrevocability of an offer",
+            "d": "Both (b) and (c)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 176,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "A minor has the capacity to enter into any types of contracts",
+            "b": "Penalty clauses are enforceable under contract law",
+            "c": "The case of Conwest Exploration vs. Letain is one of the leading cases in Canada dealing with the concept of equitable estoppel",
+            "d": "Both (a) and (b)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 177,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "The case of Hadley vs. Baxendale is one of the leading cases in Canada dealing with the concept of Quantum Meruit",
+            "b": "Only drunken adults can rely on the defence of duress or undue influence",
+            "c": "Contracts are only enforceable if they are in writing",
+            "d": "Both (a) and (b)",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 178,
+        "question": "Which of the following will negatively affect the enforceability of the contract?",
+        "options": {
+            "a": "The contract was made with a minor person",
+            "b": "There was no consideration exchanged between the parties",
+            "c": "The contract contemplates that someone will commit a criminal act in its performance",
+            "d": "The contract is verbal and is for performance of services over a period of 10 months commencing 18 months after the date the contract was signed",
+            "e": "All of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 179,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "If one party made a fraudulent misrepresentation, the other party has the right to sue for damages",
+            "b": "An engineer is not normally a party to a construction contract between an owner and a contractor",
+            "c": "The case of Buttcon vs. Toronto Hydro is a case dealing with a dispute over a request for proposals and the duty of fairness",
+            "d": "Intra proferentum is a legal principle whereby a court will interpret an ambiguous clause in favor of the party that did not draft the clause",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 180,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "A court will apply a liberal construction approach to the interpretation of limitation of liability clauses",
+            "b": "A contract is always enforceable even if the non-mistakes party knew of the mistake made by the other party at the time the contract as signed",
+            "c": "Contract A and Contract B are legal terms used to describe contracts that may arise in a bid and tender procurement process",
+            "d": "The Parol Evidence Rule deals with whether extraneous evidence can be used to interpret contract clauses",
+            "e": "Both (c) and (d)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 181,
+        "question": "Which of the following statements are false?",
+        "options": {
+            "a": "The defaulting party to a contract must compensate the non-defaulting party for all damages that it suffers no matter how remote or unreasonable the damages may be",
+            "b": "Specific performance is a remedy which is available to a non-defaulting party where there has been a breach of contract by the other party",
+            "c": "The legal principle of frustration that the performance of the contract becomes impossible and not just more expensive",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 182,
+        "question": "The basic limitation period in the Limitations Act (Ontario) is:",
+        "options": {
+            "a": "Four years from discoverability",
+            "b": "Six years from discoverability",
+            "c": "Two years from discoverability",
+            "d": "One year from discoverability",
+            "e": "Ten years from contract signing"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 183,
+        "question": "Which of the following is a form of security of payment that requires agreement of a third party:",
+        "options": {
+            "a": "Engineering services agreement",
+            "b": "Settlement agreement",
+            "c": "Letter of credit",
+            "d": "None of the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 184,
+        "question": "Which of the following statements are correct?",
+        "options": {
+            "a": "An engineering company from another country providing engineering services can enter into an enforceable contract in Ontario without obtaining a certificate of authorization from the PEO",
+            "b": "An engineering company cannot legally limit its liability under an engineering services contract",
+            "c": "An engineer cannot act as an agent for a client",
+            "d": "An engineer acting as a consultant for an owner on a construction project does not owe a duty of care to the contractor on the project",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 185,
+        "question": "If a contractor posts a performance bonds as security for performance of its obligations under a contract:",
+        "options": {
+            "a": "The surety will make sure the obligation is fulfilled if the contractor fails to perform",
+            "b": "If the surety has to pay any money under the bond, it will be able to sue the contractor for reimbursement of that money",
+            "c": "The bond is exactly the same as insurance",
+            "d": "(a), (b) and (c) above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 186,
+        "question": "Which forms of security of payment is the easiest to take advantage of:",
+        "options": {
+            "a": "Letter of credit",
+            "b": "Performance bond",
+            "c": "Parent company guarantee",
+            "d": "None of the above",
+            "e": "Both (b) and (c)"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 187,
+        "question": "Which of the following project structures are not conducive to having input from the contractor during the design phase:",
+        "options": {
+            "a": "Design-build",
+            "b": "Construction management",
+            "c": "Design-bid-build (general contractor)",
+            "d": "All of the above",
+            "e": "(a) and (b) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 188,
+        "question": "Which of the following project structures is least conducive to a \"fast-tracked\" project:",
+        "options": {
+            "a": "Design-bid-build (general contractor)",
+            "b": "Design-build",
+            "c": "Construction management",
+            "d": "All of the above",
+            "e": "(b) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 189,
+        "question": "Which of the following project structures provides for \"single point\" responsibility for both design and construction:",
+        "options": {
+            "a": "Design-bid-build (general contractor)",
+            "b": "Construction management",
+            "c": "Design-build",
+            "d": "All of the above",
+            "e": "(a) and (c) above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 190,
+        "question": "Which of the following project structures has the highest risk to an owner when it comes to taking on the role of \"constructor\" pursuant the Occupational Health and Safety Act:",
+        "options": {
+            "a": "Design-bid-build (general contractor)",
+            "b": "Design-build",
+            "c": "Construction management",
+            "d": "All of the above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 191,
+        "question": "Which of the following structures has the owner entering intro trade contracts with each trade contractor:",
+        "options": {
+            "a": "Construction management",
+            "b": "Design-bid-build",
+            "c": "Design-build",
+            "d": "All of the above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 192,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "A construction lien under the Construction Lien Act gives a subcontractor a claim against an owner, even where no privity of contract with the other owner exists",
+            "b": "Engineering services are never liable",
+            "c": "Liens under the Construction Lien Act never expire",
+            "d": "Both (a) and (c)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 193,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Mediation is a form of dispute resolution",
+            "b": "A mediator is a neutral third party who attempts to guide the parties to a mutually beneficial resolution of their dispute",
+            "c": "A mediator facilitates communications between the parties",
+            "d": "All of the above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 194,
+        "question": "Which of the following statements are true?",
+        "options": {
+            "a": "Arbitration involves a decision by a neutral decision maker that all parties agree to be bound by",
+            "b": "An arbitrator must ensure that there is procedural fairness in the arbitration",
+            "c": "You always get a public decision or precedent at the conclusion of arbitration",
+            "d": "Both (a) and (b)",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 195,
+        "question": "To prove that a defendant engineer is negligent, the plaintiff must prove:",
+        "options": {
+            "a": "That the engineer owed a duty of care to the plaintiff, the engineer breached the duty of care and the breach caused damage to the plaintiff",
+            "b": "That the engineer was criminally responsible",
+            "c": "That the engineer breached the Engineer's Code of Ethics",
+            "d": "All of the above",
+            "e": "None of the above"
+        },
+        "correct_answer": null
+    },
+    {
+        "question_number": 196,
+        "question": "In the trial of an engineer accused of negligence:",
+        "options": {
+            "a": "An expert witness could be called to give expert evidence at the trial",
+            "b": "An expert witness' oral testimony would not be allowed because the expert did not witness the incident",
+            "c": "The judge is an expert witness",
+            "d": "Both (a) and (c)",
+            "e": "Both (b) and (c)"
+        },
+        "correct_answer": null
+    }
+]
