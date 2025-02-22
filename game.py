@@ -43,7 +43,9 @@ def play_game(questions_file, progress_file):
 
         while True:
             answer = (
-                input("Enter your answer (A, B, C, etc.) or 'q' to quit: ")
+                input(
+                    f"Enter your answer (A, B, C, etc.) or 'q' to quit (Questions remaining: {len(remaining_questions)}): "
+                )
                 .strip()
                 .lower()
             )
