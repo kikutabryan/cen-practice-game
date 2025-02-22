@@ -8,7 +8,7 @@
             "c": "Damages that are remote",
             "d": "Damages for physical loss and possibly damages for economic loss"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 2,
@@ -19,7 +19,7 @@
             "c": "May recover compensation for economic loss, it just depends",
             "d": "(b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 3,
@@ -31,7 +31,7 @@
             "d": "None of the above",
             "e": "Will always go to jail"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 4,
@@ -42,7 +42,7 @@
             "c": "Compensate the defendant",
             "d": "Punish the defendant"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 5,
@@ -54,7 +54,7 @@
             "d": "(a) and (c)",
             "e": "Punish the defendant"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 6,
@@ -65,7 +65,7 @@
             "c": "Both of the above",
             "d": "Is the same as defamation"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 7,
@@ -76,7 +76,7 @@
             "c": "(a) and (b)",
             "d": "Defendant A and Defendant B both committed a tort"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 8,
@@ -88,7 +88,7 @@
             "d": "(a) and (b) above",
             "e": "(a), (b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 9,
@@ -99,7 +99,7 @@
             "c": "Did what a reasonable engineer would have done in all the circumstances",
             "d": "Was inexperienced"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 10,
@@ -110,7 +110,7 @@
             "c": "To encourage people to be careful",
             "d": "(b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 11,
@@ -122,7 +122,7 @@
             "d": "(a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 12,
@@ -133,7 +133,7 @@
             "c": "Both of the above",
             "d": "Will always be liable to the reader of the report"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 13,
@@ -144,7 +144,7 @@
             "c": "The engineer has committed professional misconduct",
             "d": "The engineer may be liable for the adequacy of the advice under contract law"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 14,
@@ -153,7 +153,7 @@
             "a": "Yes",
             "b": "No"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 15,
@@ -165,7 +165,7 @@
             "d": "(a), (b) and (c) above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 16,
@@ -177,7 +177,7 @@
             "d": "Limited partnership",
             "e": "Sole partnership"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 17,
@@ -189,7 +189,7 @@
             "d": "Sole proprietorship",
             "e": "(a), (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 18,
@@ -198,7 +198,7 @@
             "a": "True",
             "b": "False"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 19,
@@ -207,7 +207,7 @@
             "a": "True",
             "b": "False"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 20,
@@ -219,7 +219,7 @@
             "d": "All the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 21,
@@ -231,7 +231,7 @@
             "d": "None of the above",
             "e": "a and b above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 22,
@@ -243,7 +243,7 @@
             "d": "All of the above",
             "e": "(a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 23,
@@ -255,7 +255,7 @@
             "d": "Number of people invested in the business",
             "e": "The number of locations in which the business be operated"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 24,
@@ -267,7 +267,7 @@
             "d": "Both (a) and (c)",
             "e": "An expert witness could be called to give expert evidence at the trial"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 25,
@@ -279,7 +279,7 @@
             "d": "All of the above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 26,
@@ -291,7 +291,7 @@
             "d": "(a) and (c) or (b) and (c)",
             "e": "(a), (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 27,
@@ -302,7 +302,7 @@
             "c": "Is beyond the authority of the enacting government",
             "d": "Both (a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 28,
@@ -314,7 +314,7 @@
             "d": "None of the above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 29,
@@ -326,7 +326,7 @@
             "d": "None of the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 30,
@@ -338,7 +338,7 @@
             "d": "None of the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 31,
@@ -350,7 +350,7 @@
             "d": "All of the above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 32,
@@ -362,7 +362,7 @@
             "d": "Defendant and respondent",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 33,
@@ -374,7 +374,7 @@
             "d": "All of the above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 34,
@@ -385,7 +385,7 @@
             "c": "Both (a) and (b)",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 35,
@@ -397,7 +397,7 @@
             "d": "(a) and (b) above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 36,
@@ -409,7 +409,7 @@
             "d": "All of the above",
             "e": "(a) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 37,
@@ -421,7 +421,7 @@
             "d": "(a), (b) and (c) above",
             "e": "Does not become the property of the employer"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 38,
@@ -433,7 +433,7 @@
             "d": "Trade secret",
             "e": "Industrial design"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 39,
@@ -445,7 +445,7 @@
             "d": "None of the above",
             "e": "(a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 40,
@@ -457,7 +457,7 @@
             "d": "All of the above",
             "e": "(a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 41,
@@ -469,7 +469,7 @@
             "d": "(a), (b) and (c)",
             "e": "(a) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 42,
@@ -481,7 +481,7 @@
             "d": "None of the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 43,
@@ -493,7 +493,7 @@
             "d": "All of the above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 44,
@@ -505,7 +505,7 @@
             "d": "All of the above",
             "e": "(a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 45,
@@ -517,7 +517,7 @@
             "d": "All of the above",
             "e": "(b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 46,
@@ -529,7 +529,7 @@
             "d": "The purpose of tort law",
             "e": "A charge under the Criminal Code"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 47,
@@ -541,7 +541,7 @@
             "d": "All of the above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 48,
@@ -553,7 +553,7 @@
             "d": "All of the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 49,
@@ -565,7 +565,7 @@
             "d": "(a) and (c) above",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 50,
@@ -577,7 +577,7 @@
             "d": "A guaranteed maximum price contract is a hybrid between a fixed price contract and stipulated price contract",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 51,
@@ -589,7 +589,7 @@
             "d": "A court will always permit extraneous evidence to be used to interpret contract clauses",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 52,
@@ -601,7 +601,7 @@
             "d": "Limitation of liability clauses are not enforceable",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 53,
@@ -613,7 +613,7 @@
             "d": "Both (a) and (b)",
             "e": "Both (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 54,
@@ -625,7 +625,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 55,
@@ -637,7 +637,7 @@
             "d": "Both (b) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 56,
@@ -649,7 +649,7 @@
             "d": "Both (b) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 57,
@@ -661,7 +661,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 58,
@@ -673,7 +673,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 59,
@@ -685,7 +685,7 @@
             "d": "Both (b) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 60,
@@ -697,7 +697,7 @@
             "d": "The legal principle of frustration that the performance of the contract becomes impossible and not just more expensive",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 61,
@@ -709,7 +709,7 @@
             "d": "Most corporations have the legal capacity of a natural person to enter into a contract",
             "e": "Both (a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 62,
@@ -721,7 +721,7 @@
             "d": "Both (b) and (c)",
             "e": "Both (a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 63,
@@ -733,7 +733,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 64,
@@ -745,7 +745,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 65,
@@ -756,7 +756,7 @@
             "c": "Both of the above",
             "d": "A disclaimer will not protect a professional from liability for negligent advice"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 66,
@@ -767,7 +767,7 @@
             "c": "A disclaimer may protect a professional from liability for negligent advice",
             "d": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 67,
@@ -778,7 +778,7 @@
             "c": "Has limited liability under the new Limitations Act, 2002",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 68,
@@ -790,7 +790,7 @@
             "d": "The time period within which an action be commenced by the plaintiff",
             "e": "The deadline by which an engineer must deliver his or her report to a client"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 69,
@@ -801,7 +801,7 @@
             "c": "Engineers may be liable for economic loss",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 70,
@@ -813,7 +813,7 @@
             "d": "The contract contains a dispute resolution clause",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 71,
@@ -825,7 +825,7 @@
             "d": "There is no consideration, but the contract is under seal",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 72,
@@ -837,7 +837,7 @@
             "d": "Both (a) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 73,
@@ -849,7 +849,7 @@
             "d": "Multi-designers",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 74,
@@ -861,7 +861,7 @@
             "d": "Both a and b",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 75,
@@ -873,7 +873,7 @@
             "d": "Contract A and Contract B are legal terms used to describe contracts that may arise in a bid and tender procurement process",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 76,
@@ -885,7 +885,7 @@
             "d": "Both (b) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 77,
@@ -897,7 +897,7 @@
             "d": "Joint venture",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 78,
@@ -909,7 +909,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 79,
@@ -921,7 +921,7 @@
             "d": "Design-build",
             "e": "Engineering procurement and construction management"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 80,
@@ -933,7 +933,7 @@
             "d": "Both (a) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 81,
@@ -945,7 +945,7 @@
             "d": "Both (a) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 82,
@@ -957,7 +957,7 @@
             "d": "The remedy of specific performance is most often applied in sale of land cases",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 83,
@@ -969,7 +969,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 84,
@@ -981,7 +981,7 @@
             "d": "Limited partnership",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 85,
@@ -993,7 +993,7 @@
             "d": "(a), (b) and (c) above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 86,
@@ -1004,7 +1004,7 @@
             "c": "Protects a person's right to make reasonable use of his or her land",
             "d": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 87,
@@ -1015,7 +1015,7 @@
             "c": "Beyond a reasonable doubt",
             "d": "Beyond a shadow of doubt"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 88,
@@ -1026,7 +1026,7 @@
             "c": "The employee is responsible",
             "d": "(a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 89,
@@ -1037,7 +1037,7 @@
             "c": "The expert witness may express his or her opinions",
             "d": "The judge must abide by the expert's determination of the applicable standard of care"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 90,
@@ -1049,7 +1049,7 @@
             "d": "Both (a) and (b)",
             "e": "Both (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 91,
@@ -1061,7 +1061,7 @@
             "d": "The contract is verbal and if for performance of services to be performed over a period of 6 months but starting 18 months after the contract was formed",
             "e": "Both a and b"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 92,
@@ -1073,7 +1073,7 @@
             "d": "Both (b) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 93,
@@ -1084,7 +1084,7 @@
             "c": "(a) and (b)",
             "d": "The expert witness may express his or her opinions"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 94,
@@ -1095,7 +1095,7 @@
             "c": "The engineering firm did not foresee the damages",
             "d": "By pure luck, the engineering firm's careless conduct caused no damages"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 95,
@@ -1106,7 +1106,7 @@
             "c": "Would never apply to the engineer",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 96,
@@ -1118,7 +1118,7 @@
             "d": "Both (a) and (b)",
             "e": "Both (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 97,
@@ -1130,7 +1130,7 @@
             "d": "All of the above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 98,
@@ -1141,7 +1141,7 @@
             "c": "The engineer owes a duty of care to the general contractor",
             "d": "(a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 99,
@@ -1153,7 +1153,7 @@
             "d": "An engineer acting as a consultant for an owner on a construction project does not owe a duty of care to the contractor on the project",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 100,
@@ -1165,7 +1165,7 @@
             "d": "The use of dispute resolution boards is an illegal method of dealing with disputes",
             "e": "Both (a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 101,
@@ -1177,7 +1177,7 @@
             "d": "Dispute resolution boards and partnering are alternate forms of dispute resolution mechanisms",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 102,
@@ -1189,7 +1189,7 @@
             "d": "Dispute resolution boards and partnering are alternate forms of dispute resolution mechanisms",
             "e": "Both (a) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 103,
@@ -1201,7 +1201,7 @@
             "d": "Both (a) and (b)",
             "e": "Both (a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 104,
@@ -1213,7 +1213,7 @@
             "d": "The courts will not permit a party to accept an offer if the offeree (person to whom the offer is made) knows that the offeror has made a mistake",
             "e": "Both (c) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 105,
@@ -1225,7 +1225,7 @@
             "d": "Quicker decisions",
             "e": "Ability to choose a knowledgeable decision maker"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 106,
@@ -1237,7 +1237,7 @@
             "d": "The contractor providing the surety bond, and usually its shareholders, will be required to indemnify the surety against any losses the surety might incur if there is a claim on the surety bond",
             "e": "Both (b) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 107,
@@ -1249,7 +1249,7 @@
             "d": "Both (b) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 108,
@@ -1261,7 +1261,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 109,
@@ -1272,7 +1272,7 @@
             "c": "The amount of compensation paid is reduced",
             "d": "(a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 110,
@@ -1283,7 +1283,7 @@
             "c": "Will not be liable to the owner for economic loss",
             "d": "Will cause the general contractor be vicariously liable to the owner"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 111,
@@ -1294,7 +1294,7 @@
             "c": "After two years after discoverability of the claim",
             "d": "After whichever of the two limitation periods described in (b) or (c) ends earlier"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 112,
@@ -1305,7 +1305,7 @@
             "c": "The concept of discoverability is no longer relevant",
             "d": "The concept of discoverability does not apply to tort claims"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 113,
@@ -1315,7 +1315,7 @@
             "c": "The subcontractor can only be liable to the contractor who hired the subcontractor",
             "d": "The owner must prove that the subcontractor acted unprofessionally"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 114,
@@ -1327,7 +1327,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 115,
@@ -1339,7 +1339,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 116,
@@ -1351,7 +1351,7 @@
             "d": "A cost-plus with a guaranteed maximum price is a realistic alternative if the design for a project is reasonably complete and the uncertainties are reasonably well understood",
             "e": "Both (a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 117,
@@ -1363,7 +1363,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 118,
@@ -1375,7 +1375,7 @@
             "d": "Both (a) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 119,
@@ -1387,7 +1387,7 @@
             "d": "When possible, a court will grant specific performance or injunctive relief out of a concern that monetary damages will not be sufficient",
             "e": "In addition to the common law rights to terminate, the parties may define other breaches of contract which will entitle the other to terminate the contract"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 120,
@@ -1399,7 +1399,7 @@
             "d": "The client and the engineer may agree to vary the standard of care that the engineer will employ, but if the contract is silent, the court will apply the negligence standard",
             "e": "(c) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 121,
@@ -1411,7 +1411,7 @@
             "d": "The contract contemplates that someone will commit a criminal act in its performance",
             "e": "The contract is verbal and is for performance of services over a period of 18 months"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 122,
@@ -1423,7 +1423,7 @@
             "d": "If there is a partnering agreement for a project, the parties must agree never to sue each other",
             "e": "A project neutral attempts to resolve disputes quickly before they can escalate"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 123,
@@ -1434,7 +1434,7 @@
             "c": "If the engineer did what a reasonable engineer would have done in all the circumstances",
             "d": "If the engineer was in experienced"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 124,
@@ -1446,7 +1446,7 @@
             "d": "Both (a) and (b)",
             "e": "All of (a), (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 125,
@@ -1458,7 +1458,7 @@
             "d": "All of (a), (b) and (c)",
             "e": "Both (a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 126,
@@ -1470,7 +1470,7 @@
             "d": "Arbitration",
             "e": "All of (a), (c) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 127,
@@ -1481,7 +1481,7 @@
             "c": "Both of the above",
             "d": "Are the same thing"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 128,
@@ -1492,7 +1492,7 @@
             "c": "Anyone whom a reasonable engineer would be expected to know is relying on the engineer",
             "d": "(a) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 129,
@@ -1503,7 +1503,7 @@
             "c": "Both of the above",
             "d": "Will be liable even if no damages result"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 130,
@@ -1514,7 +1514,7 @@
             "c": "Is entitled to sue for injuries caused by the product even if the consumer did not purchase the product",
             "d": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 131,
@@ -1526,7 +1526,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 132,
@@ -1538,7 +1538,7 @@
             "d": "An engineer cannot act as an agent for a client",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 133,
@@ -1550,7 +1550,7 @@
             "d": "Both (a) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 134,
@@ -1561,7 +1561,7 @@
             "c": "On professional persons and corporations only",
             "d": "On all persons generally"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 135,
@@ -1572,7 +1572,7 @@
             "c": "The standard contained in provincial regulations of common law provinces",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 136,
@@ -1583,7 +1583,7 @@
             "c": "Breached the Code of Ethics",
             "d": "Breached the Professional Engineers Act"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 137,
@@ -1594,7 +1594,7 @@
             "c": "That the engineer breached the Engineer's Code of Ethics",
             "d": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 138,
@@ -1606,7 +1606,7 @@
             "d": "Two years from discoverability",
             "e": "Eight years from the signing of the contract"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 139,
@@ -1618,7 +1618,7 @@
             "d": "Six years from the signing of the contract",
             "e": "Fifteen years from the act or omission giving rise to the claim"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 140,
@@ -1629,7 +1629,7 @@
             "c": "Is a reasonable standard",
             "d": "(b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 141,
@@ -1641,7 +1641,7 @@
             "d": "(a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 142,
@@ -1653,7 +1653,7 @@
             "d": "None of the above",
             "e": "The cause of action only arises on the signing of the contract"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 143,
@@ -1664,7 +1664,7 @@
             "c": "The owner and contractor",
             "d": "The PEO"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 144,
@@ -1675,7 +1675,7 @@
             "c": "The case must be proved beyond a reasonable doubt",
             "d": "The case must be proved beyond the shadow of a doubt"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 145,
@@ -1686,7 +1686,7 @@
             "c": "The engineer must pay for any failure of the design",
             "d": "The engineer must comply with PEO's Code of Ethics"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 146,
@@ -1698,7 +1698,7 @@
             "d": "Both (b) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 147,
@@ -1710,7 +1710,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 148,
@@ -1722,7 +1722,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 149,
@@ -1734,7 +1734,7 @@
             "d": "Both (a) and (b)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 150,
@@ -1746,7 +1746,7 @@
             "d": "Both (a) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 151,
@@ -1758,7 +1758,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 152,
@@ -1770,7 +1770,7 @@
             "d": "The contract is for the sale of land but not in writing",
             "e": "Both (b) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 153,
@@ -1782,7 +1782,7 @@
             "d": "None of the above",
             "e": "More than one party is liable in tort"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 154,
@@ -1794,7 +1794,7 @@
             "d": "Will never be liable to the owner for economic loss",
             "e": "Can never have any liability"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 155,
@@ -1803,7 +1803,7 @@
             "a": "Yes",
             "b": "No"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 156,
@@ -1815,7 +1815,7 @@
             "d": "Passing off",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 157,
@@ -1826,7 +1826,7 @@
             "c": "Both of the above",
             "d": "That person's reputation has been injured"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 158,
@@ -1837,7 +1837,7 @@
             "c": "(a) or (b)",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 159,
@@ -1848,7 +1848,7 @@
             "c": "A disclaimer may protect a professional from liability for negligent advice",
             "d": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 160,
@@ -1859,7 +1859,7 @@
             "c": "Person A and the defendant have committed negligence",
             "d": "(a) and (b)"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 161,
@@ -1870,7 +1870,7 @@
             "c": "The P. Eng. is strictly liable",
             "d": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 162,
@@ -1881,7 +1881,7 @@
             "c": "Provides than an engineer can never be liable 12 months after his or her services were actually performed",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "b"
     },
     {
         "question_number": 163,
@@ -1893,7 +1893,7 @@
             "d": "All corporations have all the legal capacity of a natural person",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 164,
@@ -1904,7 +1904,7 @@
             "c": "Applies only to professionals and their employers",
             "d": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 165,
@@ -1916,7 +1916,7 @@
             "d": "The contract does not contain a dispute resolution clause",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 166,
@@ -1928,7 +1928,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 167,
@@ -1940,7 +1940,7 @@
             "d": "(a) and (b) only",
             "e": "(a), (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 168,
@@ -1952,7 +1952,7 @@
             "d": "Religious expression",
             "e": "Confidential information"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 169,
@@ -1964,7 +1964,7 @@
             "d": "(a) and (c) above",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 170,
@@ -1976,7 +1976,7 @@
             "d": "None of the above",
             "e": "No specific standard"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 171,
@@ -1988,7 +1988,7 @@
             "d": "By pure luck, the engineer firm's careless conduct caused no damages",
             "e": "The engineering firm has no insurance"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 172,
@@ -2000,7 +2000,7 @@
             "d": "A rationale for establishing an employer's liability",
             "e": "The employee's obligation to work long hours"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 173,
@@ -2012,7 +2012,7 @@
             "d": "Both (a) and (b)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 174,
@@ -2024,7 +2024,7 @@
             "d": "That the employee would not be found liable",
             "e": "That the employee is given a raise"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 175,
@@ -2036,7 +2036,7 @@
             "d": "Both (b) and (c)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 176,
@@ -2048,7 +2048,7 @@
             "d": "Both (a) and (b)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 177,
@@ -2060,7 +2060,7 @@
             "d": "Both (a) and (b)",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 178,
@@ -2072,7 +2072,7 @@
             "d": "The contract is verbal and is for performance of services over a period of 10 months commencing 18 months after the date the contract was signed",
             "e": "All of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 179,
@@ -2084,7 +2084,7 @@
             "d": "Intra proferentum is a legal principle whereby a court will interpret an ambiguous clause in favor of the party that did not draft the clause",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 180,
@@ -2096,7 +2096,7 @@
             "d": "The Parol Evidence Rule deals with whether extraneous evidence can be used to interpret contract clauses",
             "e": "Both (c) and (d)"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 181,
@@ -2108,7 +2108,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 182,
@@ -2120,7 +2120,7 @@
             "d": "One year from discoverability",
             "e": "Ten years from contract signing"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 183,
@@ -2132,7 +2132,7 @@
             "d": "None of the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 184,
@@ -2144,7 +2144,7 @@
             "d": "An engineer acting as a consultant for an owner on a construction project does not owe a duty of care to the contractor on the project",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 185,
@@ -2156,7 +2156,7 @@
             "d": "(a), (b) and (c) above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "e"
     },
     {
         "question_number": 186,
@@ -2168,7 +2168,7 @@
             "d": "None of the above",
             "e": "Both (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 187,
@@ -2180,7 +2180,7 @@
             "d": "All of the above",
             "e": "(a) and (b) above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 188,
@@ -2192,7 +2192,7 @@
             "d": "All of the above",
             "e": "(b) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 189,
@@ -2204,7 +2204,7 @@
             "d": "All of the above",
             "e": "(a) and (c) above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 190,
@@ -2216,7 +2216,7 @@
             "d": "All of the above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "c"
     },
     {
         "question_number": 191,
@@ -2228,7 +2228,7 @@
             "d": "All of the above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 192,
@@ -2240,7 +2240,7 @@
             "d": "Both (a) and (c)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 193,
@@ -2252,7 +2252,7 @@
             "d": "All of the above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 194,
@@ -2264,7 +2264,7 @@
             "d": "Both (a) and (b)",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "d"
     },
     {
         "question_number": 195,
@@ -2276,7 +2276,7 @@
             "d": "All of the above",
             "e": "None of the above"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     },
     {
         "question_number": 196,
@@ -2288,6 +2288,6 @@
             "d": "Both (a) and (c)",
             "e": "Both (b) and (c)"
         },
-        "correct_answer": null
+        "correct_answer": "a"
     }
 ]
