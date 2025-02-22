@@ -1312,6 +1312,7 @@
         "question": "If the owner of a construction project sues a subcontractor for negligence:",
         "options": {
             "a": "The subcontractor cannot be found negligent because the subcontractor is not a professional",
+            "b": "The owner must prove that the subcontractor owed a duty of care to the owner, the subcontractor breached the duty of care, and the breach caused damage to the owner",
             "c": "The subcontractor can only be liable to the contractor who hired the subcontractor",
             "d": "The owner must prove that the subcontractor acted unprofessionally"
         },
